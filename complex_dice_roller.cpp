@@ -45,4 +45,5 @@ int main() {
 
   // Final sum
   cout << sum << endl;
+  return 0;
 }
